@@ -1,2 +1,3 @@
 Motor 2
 Motor 1 apresenta falhas
+Motor 1 foi consertado
